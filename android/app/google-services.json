@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526978874211",
+    "project_id": "finstagram-30e02",
+    "storage_bucket": "finstagram-30e02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526978874211:android:432aaab768c7f9c632f156",
+        "android_client_info": {
+          "package_name": "com.example.finstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5g79Fp4WgtgPwr8J8T-Jckydi45tjW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
